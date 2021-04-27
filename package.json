@@ -36,6 +36,7 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-prettier": "^3.4.0",
     "microbundle": "^0.13.0",
+    "np": "^7.5.0",
     "prettier": "2.2.1"
   },
   "dependencies": {
